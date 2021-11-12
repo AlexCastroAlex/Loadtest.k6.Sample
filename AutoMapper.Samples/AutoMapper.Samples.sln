@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMapper.Samples", "AutoM
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loadtests.K6", "Loadtests.K6", "{12519984-CD73-45AB-982C-5A97AF32655D}"
 	ProjectSection(SolutionItems) = preProject
-		loadtest.sample.js = loadtest.sample.js
-		scenariotest.sample.js = scenariotest.sample.js
-		stresstest.sample.js = stresstest.sample.js
+		Loadtest.js = Loadtest.js
+		Sampletest.js = Sampletest.js
+		smoketest.js = smoketest.js
+		Soaktest.js = Soaktest.js
+		Stresstest.js = Stresstest.js
 	EndProjectSection
 EndProject
 Global
